@@ -136,7 +136,7 @@ amount = "1", -- Reward amount obtained.
 ...
 ```
 
-*To create new resources that are compatible with the vorp API, follow the documentation: *https://docs.vorp-core.com/api-reference/core
+To create new resources that are compatible with the vorp API, follow the documentation: https://docs.vorp-core.com/api-reference/core
 
 # How to add new perks cards
 
