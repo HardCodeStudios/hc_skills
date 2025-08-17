@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="HardCode_Skills" src="https://github.com/user-attachments/assets/d30ecbfb-154d-4ef0-a84e-e59dbaad6bfb" />
+
+
 # How does it work?
 
 `hc_skills` is an advanced skill control system for **VORP CORE**, it uses vorp **API** to monitor the skill level. (*It is not a script to increase the experience, but only a control with an interface*).
