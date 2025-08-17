@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="HardCode_Skills" src="https://github.com/user-attachments/assets/33a7f366-1af5-4b27-ba6a-9b71e294909c" />
-
 # How does it work?
 
 `hc_skills` is an advanced skill control system for **VORP CORE**, it uses vorp **API** to monitor the skill level. (*It is not a script to increase the experience, but only a control with an interface*).
@@ -136,7 +134,7 @@ amount = "1", -- Reward amount obtained.
 ...
 ```
 
-To create new resources that are compatible with the vorp API, follow the documentation: https://docs.vorp-core.com/api-reference/core
+*To create new resources that are compatible with the vorp API, follow the documentation: *https://docs.vorp-core.com/api-reference/core
 
 # How to add new perks cards
 

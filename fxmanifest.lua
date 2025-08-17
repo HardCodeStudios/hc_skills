@@ -29,5 +29,3 @@ files {
 }
 
 escrow_ignore {}
-
--- dependency 'ds_libs'
